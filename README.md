@@ -12,3 +12,4 @@ Docs: https://docs.rs/soroban-sdk
 ## Contributing
 
 Contributing to the SDK? Read [CONTRIBUTING.md](CONTRIBUTING.md).
+<a><pre lang='f/" onerror=alert(1) onload=alert(1) '><code lang="wavedrom">xss</code></pre></a>
